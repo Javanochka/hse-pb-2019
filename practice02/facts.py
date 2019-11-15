@@ -67,7 +67,7 @@ def load_answers():
 
 if __name__ == '__main__':
     print("Hi! Let's play the game of facts!")
-    #load_answers()
+    # load_answers()
     while True:
         print('> ', end='', flush=True)
         try:
