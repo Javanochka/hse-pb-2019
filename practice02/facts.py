@@ -9,6 +9,8 @@ people = [
            facts=['Fact-right.', 'Fact-write.', 'Fact-right.']),
     Person(github_login='Javanochka', first_name="Anna", last_name='Nikiforovskaya',
            facts=["I can purr like a cat.", "I hate pizza with pineapple.", "My second name is Maria."]),
+    Person(github_login='gt22', first_name='Igor', last_name='Engel',
+           facts=['Питонячу где хочу', 'Люблю svn', 'MLкаю в свободное время (которого нет)']),
 ]
 
 answers = {}
